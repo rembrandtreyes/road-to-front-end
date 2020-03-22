@@ -19,3 +19,10 @@ So without further ado
 | HTML, CSS, JavaScript | [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers) | In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user. |
 | HTML, CSS | [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001) | In this course, you'll learn the fundamentals web development, along with best practices and professional problem-solving techniques using Developer Tools. |
 | React | [React-101](https://www.codecademy.com/learn/react-101) | You’ll develop a strong understanding of React’s most essential concepts |
+
+
+## Train for free
+* [FreeCodeCamp.org](https://www.freecodecamp.org/)
+* [The Odin Project](https://www.theodinproject.com/)
+* [SoloLearn](https://www.sololearn.com/)
+* [Khan Academy](https://www.khanacademy.org/)
