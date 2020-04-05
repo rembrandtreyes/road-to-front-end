@@ -25,3 +25,6 @@ So without further ado
 * [The Odin Project](https://www.theodinproject.com/)
 * [SoloLearn](https://www.sololearn.com/)
 * [Khan Academy](https://www.khanacademy.org/)
+
+## Beginner Projects
+HTML & CSS - Copycat of the [Google homepage](https://codepen.io/rembrandtreyes/full/MWwxQe)
